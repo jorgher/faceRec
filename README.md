@@ -1,6 +1,6 @@
 # Reconocimiento de emociones.
 
-## Este proyecto tiene por objetivo identificar emociones utilizando caragterísticas(features) geométricas.
+## Este proyecto tiene por objetivo identificar emociones utilizando características(features) geométricas.
 
 Para lograr lo anterior se utilizará la base de datos de imágenes publicada por el Departmento de Ingeniería Eléctrica y Computación y del Centro de Ciencias del Conocimiento y el Cerebro de la Universidad de Ohio State, Columbus, OH 43210.
 En ésta, se incluyen imágenes asociadas a 22 emociones, del total de 22 para el proyecto se tomarán 7. "Neutral, Happy, sad, fearful, angry, surprised y disgusted" de las que se identificarán caracteristicas geométricas con las cuales se pretende alimentar diferentes clasificadores y comprobar cuál de ellos permite el mejor reconocimiento de la emoción.
