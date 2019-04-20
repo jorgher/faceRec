@@ -58,4 +58,7 @@ Accuracy: 0.21 (+/- 0.07)
 
 Al observar los valores se ve que Neural Nets es el mejor clasificador pero todavía con una precisión que es posible mejorar.
 
-En trabajo posterior se evaluarán métodos que nos conduscan a la mejora sustancial de la precisión del algorítmo de clasificación.
+En trabajo posterior se evaluarán métodos que nos conduzcan a la mejora sustancial de la precisión del algorítmo de clasificación.
+
+#Desarrollo con Redes Convolucionales.
+
